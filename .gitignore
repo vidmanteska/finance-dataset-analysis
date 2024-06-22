@@ -1,0 +1,15 @@
+# Virtual environments
+venv/
+env/
+
+# Compiled Python files
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore the pandas cache directory
+.pandas/
+
+# Ignore the CSV data file if it's large or sensitive
+Finance_dataset.csv
