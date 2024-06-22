@@ -79,6 +79,7 @@ print("Most Profitable Country:", most_profitable_country)
 
 ### Prerequisites
 - Python 3.x
+- Pandas
 
 ### Installation
 1. **Clone the repository:**
